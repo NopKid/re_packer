@@ -1,3 +1,9 @@
+; ==========================================
+; 
+;      °°° Author: Nopkid °°°
+;
+; ==========================================
+
 .intel_syntax noprefix
 .section .text
 .global _start_loader
